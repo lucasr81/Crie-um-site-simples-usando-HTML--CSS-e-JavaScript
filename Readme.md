@@ -1,5 +1,6 @@
 # Projeto de Site Simples com Alternância de Temas
-https://lucasr81.github.io/Simple-Site-Web/
+https://lucasr81.github.io/Simple-Site-Web/ 
+
 Visão Geral
 Este é um projeto de site simples que demonstra a alternância entre temas claro e escuro. O site apresenta uma lista de tarefas, um botão que permite alternar entre os temas e é criado usando HTML, CSS e JavaScript. Neste documento, vou explicar como o projeto foi estruturado e as tecnologias utilizadas.
 
